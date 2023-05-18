@@ -25,7 +25,7 @@ This is a web application designed to manage library transactions, including add
 - Node.js
 - Express.js
 - MongoDB
-- Angular
+
 
 ## Contributors
 | Contributors                             | Role        |
