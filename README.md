@@ -28,11 +28,11 @@ This is a web application designed to manage library transactions, including add
 
 
 ## Contributors
-| Contributors                             | Role        |
-|------------------------------------------|-------------|
-| [Ahmed Ramadan](#https://www.google.com) | Basic Admin |
-| [Ayman Salah](#https://www.google.com)   | Admin       |
-| [Amr Abdelaziz](#https://www.google.com) | Employee    |
-| [Ziad Nady](#https://www.google.com)     | Member      |
-| [Ahmed Tarek](#https://www.google.com)   | Book        |
-| [Ahmed Tarek](#https://www.google.com)   | Operation   |
+| Contributors                             | Role         |
+|------------------------------------------|--------------|
+| [Ahmed Ramadan](#https://www.google.com) | Basic Admin  |
+| [Ayman Salah](#https://www.google.com)   | Admin        |
+| [Amr Abdelaziz](#https://www.google.com) | Employee     |
+| [Ziad Nady](#https://www.google.com)     | Member       |
+| [Ahmed Tarek](#https://www.google.com)   | Book         |
+| [Ahmed Tarek](#https://www.google.com)   | transactions |
